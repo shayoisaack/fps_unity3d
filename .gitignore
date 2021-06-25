@@ -1,0 +1,8 @@
+/Builds
+/Library
+/Temp
+/Logs
+*.csproj
+*.pidb
+*.sln
+.DS_Store
